@@ -1,0 +1,5 @@
+export const CELL_MEASURE_CACHE_DEFAULT_HEIGHT = 400
+export const CELL_MEASURE_CACHE_MIN_HEIGHT = 200
+export const POLLING_INTERVAL = 30000
+export const DEFAULT_MONTH = 6
+export const DEFAULT_YEAR = 2023

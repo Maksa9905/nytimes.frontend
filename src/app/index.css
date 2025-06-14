@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Lato;
+  font-weight: bold;
+  src: url(/fonts/Lato-Bold.ttf);
+}
+
+@font-face {
+  font-family: Lato;
+  font-weight: regular;
+  src: url(/fonts/Lato-Regular.ttf);
+}
+
+html {
+  font-family: 'Lato';
+}
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
